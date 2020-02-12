@@ -1,2 +1,0 @@
-# testtruc
-Created with CodeSandbox
